@@ -1,0 +1,40 @@
+body{
+    background-color: white;
+}
+.text-block{
+    width: 1200px;
+    background-color: white;
+    margin: 200px auto;
+}
+.text-block-item{
+    width: 30%;
+    text-align: center;
+    padding: 16px 24px;
+    float: left;
+    box-sizing: border-box;
+    margin:0 20px;
+}
+.clear{
+    clear: both;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

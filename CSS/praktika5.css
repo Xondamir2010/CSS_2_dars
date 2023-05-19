@@ -1,0 +1,23 @@
+body{
+    background-color: chartreuse;
+}
+.boxes{
+    background-color: white;
+    width:  700px;
+    height: 350px;
+    margin: 200px auto;
+    padding: 300px;
+    text-align: center;
+}
+
+.box{
+    width: 90px;
+    height: 90px;
+    background-color: lawngreen;
+    float: left;
+    border: 1px solid black;
+    letter-spacing: 10px;
+    text-align: center;
+    margin: 5px 5px;
+
+}

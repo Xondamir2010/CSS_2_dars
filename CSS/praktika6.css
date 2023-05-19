@@ -1,0 +1,93 @@
+body{
+    background-color: white;
+}
+
+.box{
+    margin: 20px auto;
+    width: 650px;
+}
+
+.boxes1{
+    border: 7px solid black;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    float: left;
+    margin: 20px;
+    line-height: 70px;
+}
+.boxes2{
+    border: 7px dashed black;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    float: left;
+    margin: 20px;
+    line-height: 70px;
+}
+.boxes3{
+    border: 7px dotted black;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    float: left;
+    margin: 20px;
+    line-height: 70px;
+}
+.boxes4{
+    border: 7px double black;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    float: left;
+    margin: 20px;
+    line-height: 70px;
+}
+.boxes5{
+    border: 7px inset;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    float: left;
+    margin: 20px;
+    line-height: 70px;
+}
+.boxes6{
+    border: 7px outset;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    float: left;
+    margin: 20px;
+    line-height: 70px;
+}
+.boxes7{
+    border: 7px groove;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    float: left;
+    margin: 20px;
+    line-height: 70px;
+}
+.boxes8{
+    border: 7px ridge;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    float: left;
+    margin: 20px;
+    line-height: 70px;
+}
+.clear{
+    clear: both;
+}
+
+
+
+
+
+
+
+
+
